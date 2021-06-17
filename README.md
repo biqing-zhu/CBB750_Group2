@@ -8,7 +8,7 @@
    
    Classification - ngram_classification_framework.ipynb
 
-## User-label calssification using GNN & GNNexplainer
+## User-label classification using GNN & GNNexplainer
 
    Preprocessing - build_graph_final.ipynb, sub_graph_preprocessing.ipynb
 
