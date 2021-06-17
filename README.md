@@ -1,5 +1,8 @@
 #  Mapping twitter anti-vaccinator Network using NLP and machine learning models (Final Project: Group 2)
 
+## Project Summary:
+   group2-1.zip
+
 ## Tweet-label classification:
    Preprocessing - preprocessing_final.ipynb
    
